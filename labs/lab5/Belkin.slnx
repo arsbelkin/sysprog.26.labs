@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PlusiBelkin/PlusiBelkin.vcxproj" Id="7e434dd1-bcec-4a97-a58d-488aa373a421" />
+  <Project Path="PyBelkin/PyBelkin.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="2ecc809f-0857-4d60-9d9f-0552160bccf8">
+    <Platform Project="AnyCPU" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="SharpBelkin/SharpBelkin.csproj" Id="946b212c-4234-4c72-a803-e930262bf5aa" />
+</Solution>
