@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DLLMMFBelkin/DLLMMFBelkin.vcxproj" Id="dbd970e5-9770-4a69-875f-0a542249c337" />
+  <Project Path="PlusiBelkin/PlusiBelkin.vcxproj" Id="7e434dd1-bcec-4a97-a58d-488aa373a421">
+    <BuildDependency Project="DLLMMFBelkin/DLLMMFBelkin.vcxproj" />
+  </Project>
+  <Project Path="SharpBelkin/SharpBelkin.csproj" Id="946b212c-4234-4c72-a803-e930262bf5aa" />
+</Solution>
