@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DllTcpBelkin/DllTcpBelkin.vcxproj" Id="562583b3-67a5-4497-8c15-37061b814cdd" />
+  <Project Path="PlusiBelkin/PlusiBelkin.vcxproj" Id="7e434dd1-bcec-4a97-a58d-488aa373a421" />
+  <Project Path="SharpBelkin/SharpBelkin.csproj" Id="946b212c-4234-4c72-a803-e930262bf5aa" />
+</Solution>
